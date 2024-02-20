@@ -23,6 +23,10 @@ To use this configuration, follow these steps:
 
 Once you have installed the configuration, you can start using Klipper with your Ender 3. Make sure to adjust the printer settings in your slicer software to match the configuration (e.g., bed size, nozzle diameter, etc.).
 
+## Pin reference
+![Image](https://teamgloomy.github.io/images/skr_1.4.png)
+
+
 ## Contributing
 
 If you have any improvements or suggestions for this configuration, feel free to contribute by submitting a pull request.
