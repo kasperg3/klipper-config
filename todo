@@ -1,2 +1,5 @@
 * Calibrate extruder filament distance
-* 
+* Stepper motor current tuning? 
+* bed/nossle pid tuning
+* Rining acceleration tuning
+* linear advance 
