@@ -24,8 +24,26 @@ To use this configuration, follow these steps:
 Once you have installed the configuration, you can start using Klipper with your Ender 3. Make sure to adjust the printer settings in your slicer software to match the configuration (e.g., bed size, nozzle diameter, etc.).
 
 ## Pin reference
+
 ![Image](https://teamgloomy.github.io/images/skr_1.4.png)
 
+## Calibration
+
+Configuration checks:
+- Endstops command: QUERY_ENDSTOPS
+- <https://www.klipper3d.org/Config_checks.html>
+- PID tuning
+- extruder rotation distance: <https://www.klipper3d.org/Rotation_Distance.html#calibrating-rotation_distance-on-extruders>
+
+Calibration measures:
+- Calibrating z endstop <https://www.klipper3d.org/Manual_Level#calibrating-a-z-endstop>
+- retraction calibration <https://teachingtechyt.github.io/calibration.html#retraction>
+- Pressure advance <https://www.klipper3d.org/Pressure_Advance.html>
+- Input shaper (Maybe?)
+
+## G-Code references
+
+* <https://www.klipper3d.org/G-Codes.html>
 
 ## Contributing
 
