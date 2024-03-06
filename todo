@@ -1,5 +1,7 @@
-* Calibrate extruder filament distance
-* Stepper motor current tuning? 
-* bed/nossle pid tuning
-* Rining acceleration tuning
-* linear advance 
+* Install new ABL sensor
+* Bed mesh leveling
+* Calibrate Extruder rotation distance
+* retraction test
+* Pressure advance calibration (set in the filament gcode)
+* Ringing acceleration tuning
+* Backup: RPi image, klipper config
